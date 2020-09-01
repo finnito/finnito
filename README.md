@@ -10,3 +10,5 @@ I'm Finn - a high school science teacher in New Zealand! I studied in Physics an
 - 📫 How to reach me: [Email me](mailto:finn@lesueur.nz) or on [Telegram](https://t.me/finnito)
 
 🏔 Mostly, I just love being outdoors though. You can find me on [Strava](https://www.strava.com/athletes/4215769) doing my best to be outside!
+
+![](https://github-profile-trophy.vercel.app/?username=finnito)
